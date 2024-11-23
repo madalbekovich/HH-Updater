@@ -31,7 +31,7 @@ HH-UPDATER — это автоматизированный инструмент 
 
 1. Склонируйте проект
 ```
-git clone https://github.com/ваш_репозиторий/AutoRespond200.git
+git clone https://github.com/madalbekovich/HH-Updater.git
 ```
 ```
 cd HH-Updater
