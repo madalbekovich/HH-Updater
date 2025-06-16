@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7c64913-e4d8-4699-87e3-a1b219c9a5a0)
-
-# **ВНИМАТЕЛЬНО ЧИТАЙТЕ ДОКУМЕНТАЦИЮ!**
+![image](https://github.com/user-attachments/assets/a7c64913-e4d8-4699-87e3-a1b219c9a5a0)s
 
 1. Склонируйте проект
 ```
